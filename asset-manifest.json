@@ -1,14 +1,14 @@
 {
-  "main.css": "/CoinCap/static/css/main.aaf5e523.chunk.css",
-  "main.js": "/CoinCap/static/js/main.e0e7c9a3.chunk.js",
-  "main.js.map": "/CoinCap/static/js/main.e0e7c9a3.chunk.js.map",
+  "main.css": "/CoinCap/static/css/main.4228f620.chunk.css",
+  "main.js": "/CoinCap/static/js/main.2247f992.chunk.js",
+  "main.js.map": "/CoinCap/static/js/main.2247f992.chunk.js.map",
   "static/js/1.4d4949a9.chunk.js": "/CoinCap/static/js/1.4d4949a9.chunk.js",
   "static/js/1.4d4949a9.chunk.js.map": "/CoinCap/static/js/1.4d4949a9.chunk.js.map",
   "runtime~main.js": "/CoinCap/static/js/runtime~main.cfa21313.js",
   "runtime~main.js.map": "/CoinCap/static/js/runtime~main.cfa21313.js.map",
   "static/media/style.bundle.css": "/CoinCap/static/media/Roboto-Regular.3e1af3ef.ttf",
-  "static/css/main.aaf5e523.chunk.css.map": "/CoinCap/static/css/main.aaf5e523.chunk.css.map",
+  "static/css/main.4228f620.chunk.css.map": "/CoinCap/static/css/main.4228f620.chunk.css.map",
   "index.html": "/CoinCap/index.html",
-  "precache-manifest.a4ca7a02d6b49765a635ccf3dc48af3e.js": "/CoinCap/precache-manifest.a4ca7a02d6b49765a635ccf3dc48af3e.js",
+  "precache-manifest.1d78f6ab33853b9e308883f4cf7fe3d7.js": "/CoinCap/precache-manifest.1d78f6ab33853b9e308883f4cf7fe3d7.js",
   "service-worker.js": "/CoinCap/service-worker.js"
 }

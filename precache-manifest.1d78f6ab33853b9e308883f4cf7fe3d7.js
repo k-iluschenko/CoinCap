@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/CoinCap/static/js/runtime~main.cfa21313.js"
   },
   {
-    "revision": "e0e7c9a3f4c855da080e",
-    "url": "/CoinCap/static/js/main.e0e7c9a3.chunk.js"
+    "revision": "2247f992bfcd37a1cec3",
+    "url": "/CoinCap/static/js/main.2247f992.chunk.js"
   },
   {
     "revision": "4d4949a9a9f903a5cc4a",
     "url": "/CoinCap/static/js/1.4d4949a9.chunk.js"
   },
   {
-    "revision": "e0e7c9a3f4c855da080e",
-    "url": "/CoinCap/static/css/main.aaf5e523.chunk.css"
+    "revision": "2247f992bfcd37a1cec3",
+    "url": "/CoinCap/static/css/main.4228f620.chunk.css"
   },
   {
-    "revision": "ece47ab15cf2db3808214f6e25f07657",
+    "revision": "0ed6b6e1ed2ec284c5cf5766190bbd11",
     "url": "/CoinCap/index.html"
   }
 ];
