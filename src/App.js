@@ -8,6 +8,9 @@ class App extends Component {
       allCoins: undefined,
     };
   }
+  componentWillMount(){
+    this.getCoints();
+  }
 
   componentDidMount() {
     setInterval(() => {
