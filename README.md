@@ -1,1 +1,2 @@
-# CoinCap
+# CoinCap 
+React, RestApi, adaptive, 
