@@ -1,2 +1,2 @@
 # CoinCap 
-ReactJS, RestApi, adaptive
+ReactJS, RestApi, adaptive, Webpack
